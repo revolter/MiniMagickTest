@@ -6,7 +6,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'mini_magick', '>= 4.5.1'
 
-gem 'bundler', '1.17.3'
 gem 'coveralls', '0.7.2'
 gem 'fastlane', '2.133.0'
 gem 'pry', '0.11.3'
